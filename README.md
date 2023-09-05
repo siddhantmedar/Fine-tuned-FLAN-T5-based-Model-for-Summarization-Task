@@ -50,3 +50,4 @@ PEFT(LoRA), bitsanbytes LLM.int8() to quantize out frozen LLM weights to int8. T
 #### RunPod Pytorch 2.0.1 (1 x RTX A6000, 16 vCPU 62 GB RAM, cuda11.8.0-devel)<br>
 ## Hours used
 #### ~18
+![image](https://github.com/siddhantmedar/PEFT-FLAN-T5-XXL-Sharded-FP16-Model/assets/15628564/064affec-6a5b-4bee-a991-4022efcb17c7)
